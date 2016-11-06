@@ -199,6 +199,7 @@ This study guide is authored and maintained by Dmitryi Kostuk and Halina Chetver
 
 The couse itself (both Russian & English versions) is developed in Computers & Systems dept. of Brest St
 
-[bstu >](http://en.bstu.by/index.php/en/university/faculties/electronic-information-systems/comput
+
+[Lections'  >](http://en.bstu.by/index.php/en/university/faculties/electronic-information-systems/comput
 ![](http://en.bstu.by/images/logo.png)
 **BREST STATE TECHNICAL UNIVERSITY**
