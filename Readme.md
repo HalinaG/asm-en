@@ -192,11 +192,14 @@ with program text from section 1.1 (you may use mcedit).
 ##Acknowledgements
 This study guide is authored and maintained by Dmitryi Kostuk and Halina Chetverkina with help from its contributors.
 
+[Lections' slides 1 >](https://docs.google.com/file/d/0B2vjAZQkGvb5b2FrNU9JSlhRZzZyOUFuaFd6NkJaQQ/edit)
 
-[View on Github >](https://github.com/fiowro/asm)
+[Lections' slides 2 >](https://docs.google.com/file/d/0B2vjAZQkGvb5YTI3NzM1MmYtNzA2Yi00ZTMyLThiYjEtMjBkMjhlMjg1NjZl/edit)
 
-[View on bstu >](http://en.bstu.by/index.php/en/university/faculties/electronic-information-systems/computer-and-computer-systems)
+[Lections' slides 3 >](https://docs.google.com/file/d/0B2vjAZQkGvb5d3NGRTlwZEpTUU9tdkpnTThYeG1GUQ/edit)
 
+The couse itself (both Russian & English versions) is developed in Computers & Systems dept. of Brest St
 
+[bstu >](http://en.bstu.by/index.php/en/university/faculties/electronic-information-systems/comput
 ![](http://en.bstu.by/images/logo.png)
 **BREST STATE TECHNICAL UNIVERSITY**
